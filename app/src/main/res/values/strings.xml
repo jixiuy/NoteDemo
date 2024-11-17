@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Node</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="confirmDelete">确认删除</string>
+    <string name="isConfirmDeleted">是否确认删除</string>
+    <string name="toDO">代办</string>
+    <string name="finish">完成</string>
+    <string name="notFinish">未完成</string>
+    <string name="weekView">周视图</string>
+    <string name="time">时间</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
